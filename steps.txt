@@ -1,0 +1,8 @@
+1. Create Github account.
+2. Create empty repo in that account.
+3. In local system cmd
+	git config --global user.name "username"
+	git config --global user.emial "email"
+4. "git push -u origin master" in cmd
+	Ask - username
+	      password(token)
